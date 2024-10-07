@@ -1,25 +1,25 @@
 
 ### **Sorcerer (Zauberer)**
 
-1. **Draconic Bloodline** (PHB)
+1. **Draconic Bloodline** (PHB)  
    Diese Unterklasse basiert auf der Abstammung von Drachen. Der Zauberer erhält Fähigkeiten, die auf dem Drachenblut basieren, darunter erhöhte Widerstandsfähigkeit, zusätzliche Rüstung und die Möglichkeit, mächtige Elementarzauber zu wirken, die mit der Drachenspezies verbunden sind.
     <br/>
-2. **Wild Magic** (PHB)
+2. **Wild Magic** (PHB)  
    Ein Zauberer, dessen Magie extrem unvorhersehbar ist. Diese Unterklasse führt eine "Wild Magic Surge"-Tabelle ein, die es dem Spieler ermöglicht (oder zwingt), zufällige magische Effekte auszulösen, wenn Zauber gewirkt werden. Die Effekte reichen von harmlos bis potenziell gefährlich – sowohl für Feinde als auch für Verbündete.
     <br/>
-3. **Storm Sorcery** (SCAG)
+3. **Storm Sorcery** (SCAG)  
    Ein Sorcerer, der die Macht des Sturms kontrolliert. Diese Unterklasse ermöglicht es dem Zauberer, Blitze, Wind und Donner zu beschwören. Er kann sich außerdem durch die Lüfte bewegen und Blitze nutzen, um sich schneller zu bewegen oder Angriffe zu verstärken.
     <br/>
-4. **Shadow Magic** (XGtE)
+4. **Shadow Magic** (XGtE)  
    Diese dunkle Unterklasse gibt dem Sorcerer die Fähigkeit, die Macht der Schattenebene zu nutzen. Der Zauberer kann sich in Schatten auflösen, die Dunkelheit manipulieren und Feinden Furcht einflößen. Er erhält außerdem erhöhte Überlebensfähigkeiten durch eine enge Verbindung zum Reich des Todes.
     <br/>
-5. **Divine Soul** (XGtE)
+5. **Divine Soul** (XGtE)  
    Diese Unterklasse verleiht dem Sorcerer göttliche Kräfte, ähnlich einem Kleriker. Der Zauberer hat Zugriff auf sowohl arkanische als auch göttliche Magie und kann Heilzauber sowie mächtige Angriffszauber wirken, die normalerweise nur Klerikern zur Verfügung stehen.
     <br/>
-6. **Aberrant Mind** (TCoE)
+6. **Aberrant Mind** (TCoE)  
    Ein Sorcerer, der seine Macht aus einem fremdartigen, psionischen Ursprung schöpft. Diese Unterklasse bietet dem Zauberer mentale Kräfte, einschließlich Telepathie und psionischer Angriffe, die Gegner betäuben und verwirren können.
     <br/>
-7. **Clockwork Soul** (TCoE)
+7. **Clockwork Soul** (TCoE)  
    Ein Sorcerer, dessen Magie mit der Ebene der Mechanik und Ordnung verbunden ist. Die Clockwork Soul erhält Fähigkeiten, die auf Stabilität, Schutz und die Verhinderung von Chaos basieren, was sie zu einer defensiveren Unterklasse macht.
     <br/>
 
@@ -49,23 +49,18 @@
 1. **Bloodline of the Serpent**  
     Diese Herkunft verleiht dem Zauberer Fähigkeiten, die mit Schlangen und Schlangenwesen verbunden sind. Sie können Feinde mit einer schlangenartigen Anmut und Giftmagie manipulieren und beeinflussen.
     <br/>
-    
 2. **Hollow One**  
     Hollow Ones haben eine Verbindung zur Unterwelt. Diese Sorcerer ziehen ihre Kräfte aus der Nähe zu den Toten und können die Seelen der Verstorbenen zu ihrem Vorteil nutzen.
     <br/>
-    
 3. **Spirit-Touched**  
     Diese Zauberer sind von Geistern beeinflusst, die ihnen besondere Fähigkeiten verleihen. Sie können spirituelle Energien kanalisieren und die Präsenz von Geistern nutzen, um ihre Zauber zu verstärken.
     <br/>
-    
 4. **Stormborn**  
     Stormborn-Zauberer haben eine starke Verbindung zu Stürmen und den Elementen. Sie können Wetterphänomene manipulieren und ihre Magie mit Blitz- und Donnerschaden verstärken.
     <br/>
-    
 5. **Warped One**  
     Diese Sorcerer sind durch magische Strahlung oder Experimente mutiert worden. Sie haben Zugang zu seltsamen und chaotischen Kräften, die ihre Zauber unberechenbar machen.
     <br/>
-    
 6. **Wasteland Survivor**  
     Wasteland Survivors haben in rauen Umgebungen überlebt und ziehen ihre Kräfte aus den Gefahren ihrer Umgebung. Sie können Magie nutzen, die mit der Wildnis und Überleben verbunden ist.
     <br/>
