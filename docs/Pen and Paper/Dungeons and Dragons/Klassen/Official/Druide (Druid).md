@@ -1,65 +1,65 @@
 
 ### **Druid (Druide)**
 
-1. **Circle of the Land** (PHB)
+1. **Circle of the Land** (PHB)<br/>
    Diese Druiden ziehen ihre Magie direkt aus der Natur. Je nach Region (Wald, Wüste, Ozean, etc.) erhalten sie unterschiedliche Fähigkeiten, die es ihnen ermöglichen, die Kräfte der jeweiligen Umgebung zu nutzen. Diese Druiden sind auch ausgezeichnete Zauberer und haben Zugriff auf eine Vielzahl mächtiger Zauber.
     <br/>
-2. **Circle of the Moon** (PHB)
+2. **Circle of the Moon** (PHB)<br/>
    Diese Druiden sind Meister der Wild Shape-Fähigkeit, die es ihnen erlaubt, sich in Tiere zu verwandeln. Moon-Druiden können sich in mächtige Kreaturen verwandeln, um im Nahkampf zu kämpfen, und ihre tierischen Formen sind im Vergleich zu anderen Druiden besonders stark.
     <br/>
-3. **Circle of Dreams** (XGtE)
+3. **Circle of Dreams** (XGtE)<br/>
    Druiden dieses Zirkels haben eine tiefe Verbindung zur Feywild und können Heilung und Unterstützung durch Träume und fey-ähnliche Energien anbieten. Sie sind ausgezeichnete Heiler und haben Zugang zu magischen Fähigkeiten, die sowohl Schutz als auch Bewegung in andere Ebenen ermöglichen.
     <br/>
-4. **Circle of the Shepherd** (XGtE)
+4. **Circle of the Shepherd** (XGtE)<br/>
    Diese Druiden konzentrieren sich darauf, Tiere und Geisterwesen zu beschwören, um im Kampf zu helfen. Shepherd-Druiden können Tiere stärken und haben besondere Fähigkeiten, um ihre Beschwörungen zu schützen und zu unterstützen.
     <br/>
-5. **Circle of Spores** (GGtR)
+5. **Circle of Spores** (GGtR)<br/>
    Diese düstere Unterklasse dreht sich um den Kreislauf von Leben und Tod. Spore-Druiden nutzen Pilze und Schimmel, um Feinde zu schwächen, und können tote Körper reanimieren, um als untote Kreaturen für sie zu kämpfen. Ihre Fähigkeiten sind besonders tödlich in Verbindung mit Nekromantie und Verderbnis.
     <br/>
-6. **Circle of Stars** (TCoE)
+6. **Circle of Stars** (TCoE)<br/>
    Druiden dieses Zirkels ziehen ihre Macht aus den Sternen und Himmelskörpern. Sie können magische Sternenkonstellationen manifestieren, die ihnen zusätzliche Fähigkeiten im Kampf oder bei der Heilung verleihen. Die Sterne leiten sie und geben ihnen Wissen über das Universum und das Schicksal.
     <br/>
-7. **Circle of Wildfire** (TCoE)
+7. **Circle of Wildfire** (TCoE)<br/>
    Wildfire-Druiden sind mit der zerstörerischen und regenerativen Macht des Feuers verbunden. Sie beschwören Wildfire-Geister, die sowohl Heilung als auch Zerstörung bewirken können, und ihre Magie dreht sich um den Zyklus von Verbrennen und Wiedererwachen.
     <br/>
 
 ### **Valda's Spire of Secrets**
 
-1. **Circle of the City**  
+1. **Circle of the City**  <br/>
     Druiden dieses Zirkels nutzen nicht die Kräfte der Wildnis, sondern die der urbanen Landschaften. Sie sind in der Lage, Gebäude und Straßen mit ihrer Magie zu manipulieren, indem sie Pflastersteine heben, Straßenzüge verändern und Mauern errichten. Diese Druiden sind Meister der städtischen Wildnis und nutzen das Stadtbild zu ihrem Vorteil im Kampf und bei der Erkundung. Sie sind besonders geeignet, wenn die Handlung in einer Stadt oder einem bewohnten Gebiet spielt.
     <br/>
-2. **Circle of the Deep**  
+2. **Circle of the Deep**  <br/>
     Dieser Zirkel konzentriert sich auf die mächtigen und geheimnisvollen Tiefen der Ozeane. Diese Druiden haben eine enge Verbindung zum Wasser und können magische Fähigkeiten nutzen, die von den tiefen Gewässern inspiriert sind. Sie beherrschen die Kontrolle über Unterwasserlebewesen und setzen die zerstörerische Kraft der Meere im Kampf ein.
     <br/>
-3. **Circle of the Fist**  
+3. **Circle of the Fist**  <br/>
     Diese Druiden vereinen unbewaffneten Nahkampf mit ihrer natürlichen Magie. Sie sind fähig, ihre magischen Kräfte in ihre Schläge zu leiten und damit mächtige Angriffe zu führen. Ähnlich wie Mönche verlassen sich diese Druiden auf ihre Körperbeherrschung und die Kraft der Natur, um ihre Gegner zu überwältigen.
     <br/>
-4. **Circle of Stones**  
+4. **Circle of Stones**  <br/>
     Die Druiden des Steinkreises haben die Fähigkeit, monumentale Steinformationen zu erschaffen, die als Fokus für ihre Magie dienen. Diese Steinkreise oder Henges verleihen sowohl den Druiden als auch ihren Verbündeten Schutz und stärken ihre magischen Fähigkeiten. Sie sind Meister des Erschaffens mächtiger, dauerhafter Strukturen und setzen die rohe Macht der Erde ein, um ihre Gegner zu besiegen.
     <br/>
-5. **Circle of Vermin**  
+5. **Circle of Vermin**  <br/>
     Diese Druiden kontrollieren Schwärme von Insekten und kleinen Tieren, die sie überallhin begleiten. Sie sind Meister der natürlichen Ungeziefer und können diese Schwärme in Schlachten lenken, um Gegner zu überwältigen und zu schwächen. Mit ihrer Verbindung zu den niedrigsten Kreaturen der Natur sind sie furchteinflößende Gegner.
     <br/>
-6. **Circle of the Wyrm**  
+6. **Circle of the Wyrm**  <br/>
     Diese Druiden haben eine tiefe Verbindung zu Drachen und verwandeln sich im Laufe ihrer Entwicklung zunehmend in drachenartige Wesen. Sie können die Form hybrider Drachen annehmen und schließlich die Macht und das Aussehen eines echten Drachen erlangen. Diese mächtigen Gestalten setzen die elementaren Kräfte der Drachen ein, um Feuer zu speien und Verwüstung zu verursachen.
 
 
 ### **Tome of Heroes**
 
-1. **Circle of Ash**
+1. **Circle of Ash**<br/>
     Druiden dieses Zirkels glauben an die Macht der Asche und den Zyklus von Leben und Tod. Sie nutzen Asche sowohl im Kampf als auch zur Heilung und können Aschewolken erzeugen, die Feinde schwächen und Schaden zufügen.
     <br/>
-2. **Circle of Bees**
+2. **Circle of Bees**<br/>
     Diese Druiden haben eine enge Verbindung zu Bienen und Insekten. Sie können Bienenschwärme herbeirufen, die Feinde angreifen und Verbündete schützen. Sie erhalten auch die Fähigkeit, mit Bienen zu kommunizieren und ihre Kräfte für den Kampf zu nutzen.
     <br/>
-3. **Circle of Crystals**
+3. **Circle of Crystals**<br/>
     Druiden des Zirkels der Kristalle nutzen die magische Kraft der Erde in Form von Kristallen. Sie können Kristalle herbeirufen, die Gegner fesseln oder als Verteidigung dienen. Ihre Fähigkeiten konzentrieren sich auf die Manipulation und Verstärkung von Kristallen in der Umgebung.
     <br/>
-4. **Circle of the Green**
+4. **Circle of the Green**<br/>
     Diese Druiden verehren die Pflanzenwelt und können einen grünen Geist herbeirufen, der ihnen im Kampf und bei der Heilung hilft. Sie erhalten Zugang zu speziellen Pflanzenzaubern und stärken ihre Verbundenheit mit der Natur.
     <br/>
-5. **Circle of Ooze**
+5. **Circle of Ooze**<br/>
     Druiden des Zirkels des Schleims vereinen sich mit dieser Form der Natur. Sie können Schleimformen annehmen, die ihre Widerstandsfähigkeit gegen Schaden erhöhen und es ihnen ermöglichen, durch enge Räume zu gleiten oder Gegner in klebrigen Schleim zu fesseln.
     <br/>
-6. **Circle of Wind**
+6. **Circle of Wind**<br/>
     Diese Druiden kontrollieren den Wind und nutzen ihn sowohl zur Verteidigung als auch zum Angriff. Sie können mächtige Windzauber wirken, Feinde durch Stürme verwirren und sich mit der Geschwindigkeit des Windes bewegen.

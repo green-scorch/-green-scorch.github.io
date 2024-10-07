@@ -25,22 +25,22 @@
 
 ### **Valda's Spire of Secrets**
 
-1. **College of Cantors** 
+1. **College of Cantors** <br/>
    Barden des _College of Cantors_ sind göttliche Lobpreiser, deren Musik die Götter selbst ehrt. Sie sind bekannt für ihre Heilkräfte und ihre Fähigkeit, Verbündete durch himmlische Hymnen zu stärken. Mit steigender Stufe erhalten sie Fähigkeiten, die es ihnen ermöglichen, durch Musik göttlichen Schutz zu gewähren und Heilung zu verbessern. Ihre Instrumente stehen oft im Zusammenhang mit dem Gott, dem sie huldigen.
     
-2. **College of Graffiti** 
+2. **College of Graffiti** <br/>
    Barden dieses Colleges nutzen die Stadt als Leinwand und kreieren mit ihrer Magie Graffitis, die die Umgebung inspirieren. Sie können magische Tags verwenden, die ihre Verbündeten stärken, und spezielle Markierungen auf Gegner anwenden, um zusätzlichen Schaden zu verursachen. Diese Barden sind kreative Straßenkünstler, die ihre Umgebung durch Magie und Kunst beeinflussen.
     <br/>
-3. **College of Jesters** 
+3. **College of Jesters** <br/>
    Die _College of Jesters_ Barden sind Experten der Satire und Akrobatik. Sie zeichnen sich durch Humor aus, der sowohl Weisheit als auch scharfe Kritik in sich trägt. Diese Barden sind furchtlose Entertainer, die durch ihre Darbietungen nicht nur Lachen, sondern auch starke magische Effekte hervorrufen.
     <br/>
-4. **College of the Mad God** 
+4. **College of the Mad God** <br/>
    Diese Barden kanalisieren die chaotische Musik des Pandämoniums. Ihr Spiel ist unberechenbar und ihre Musik verstört sowohl Feinde als auch Verbündete. Sie nutzen die verrückte Energie der Dunkelheit, um mächtige und gefährliche Effekte zu erzeugen.
     <br/>
-5. **College of Masks** 
+5. **College of Masks** <br/>
    Barden dieses Colleges tragen magische Masken, die ihnen täglich neue Kräfte verleihen. Jede Maske symbolisiert eine andere Persona und verleiht spezielle Fähigkeiten. Die Macht dieser Masken wächst mit den Fertigkeiten des Barden.
     <br/>
-6. **College of Romance** 
+6. **College of Romance** <br/>
    Diese verführerischen Barden nutzen die Kraft der Liebe und des Charmes, um selbst ihre ärgsten Feinde zu bezaubern. Mit ihrer Magie können sie Herzen gewinnen und Konflikte durch Verführung und Diplomatie lösen.
 
 
