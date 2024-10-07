@@ -2,7 +2,6 @@
 ### **Barbarian (Barbar)**
 
 1. **Path of the Berserker** (PHB)
-
 	Der klassische wütende Krieger, der alles in seinem Weg zerschmettert. Berserker-Barbaren können in einen „Frenzy“ geraten, der ihnen zusätzliche Angriffe ermöglicht, aber nach dem Kampf erschöpft. Diese Unterklasse ist rein offensiv ausgerichtet und besonders effektiv im Nahkampf.
     <br/>
     
