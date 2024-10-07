@@ -2,13 +2,13 @@
 ### **Bard (Barde)**
 
 1. **College of Lore** (PHB)
-   Diese Barden-Unterklasse spezialisiert sich auf Wissen und Magie. Der Lore-Barde erhält Zugang zu zusätzlichen Zaubersprüchen und verfügt über die Fähigkeit, das Verhalten seiner Gegner zu beeinflussen, indem er deren Würfe manipuliert. Er ist ein Meister darin, Wissen aus verschiedenen Quellen zu sammeln und zu nutzen.
+	Diese Barden-Unterklasse spezialisiert sich auf Wissen und Magie. Der Lore-Barde erhält Zugang zu zusätzlichen Zaubersprüchen und verfügt über die Fähigkeit, das Verhalten seiner Gegner zu beeinflussen, indem er deren Würfe manipuliert. Er ist ein Meister darin, Wissen aus verschiedenen Quellen zu sammeln und zu nutzen.
     <br/>
 2. **College of Valor** (PHB)
-   Der Valor-Barde ist ein mutiger Krieger, der seine Musik nutzt, um seine Verbündeten im Kampf zu inspirieren. Diese Unterklasse gibt dem Barden Zugang zu schwereren Rüstungen und Nahkampffähigkeiten, sodass er sowohl mit Magie als auch mit Waffen effektiv kämpfen kann.
+	Der Valor-Barde ist ein mutiger Krieger, der seine Musik nutzt, um seine Verbündeten im Kampf zu inspirieren. Diese Unterklasse gibt dem Barden Zugang zu schwereren Rüstungen und Nahkampffähigkeiten, sodass er sowohl mit Magie als auch mit Waffen effektiv kämpfen kann.
     <br/>
 3. **College of Glamour** (XGtE)
-   Ein Barde, der sich auf die verführerischen und illusorischen Kräfte der Feywild spezialisiert hat. Glamour-Barden können ihre Schönheit und Anziehungskraft nutzen, um andere zu bezaubern oder zu manipulieren. Ihre Magie dreht sich um Verzauberung und Illusion, und sie können ihre Verbündeten inspirieren, indem sie sie mit magischer Anmut umhüllen.
+	Ein Barde, der sich auf die verführerischen und illusorischen Kräfte der Feywild spezialisiert hat. Glamour-Barden können ihre Schönheit und Anziehungskraft nutzen, um andere zu bezaubern oder zu manipulieren. Ihre Magie dreht sich um Verzauberung und Illusion, und sie können ihre Verbündeten inspirieren, indem sie sie mit magischer Anmut umhüllen.
     <br/>
 4. **College of Swords** (XGtE)
    Dieser Barde ist ein meisterhafter Schwertkämpfer, der seine Klingenfertigkeit mit Magie kombiniert. Er führt akrobatische Angriffe aus und kann Magie nutzen, um seine Angriffe zu verstärken. Diese Unterklasse verleiht dem Barden eine größere Beweglichkeit im Nahkampf.
