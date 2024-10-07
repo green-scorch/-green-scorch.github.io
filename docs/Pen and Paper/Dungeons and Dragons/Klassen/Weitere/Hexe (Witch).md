@@ -1,0 +1,2 @@
+
+Hexen sind mystische Zauberwirker, die dunkle Magie durch _Hexes_ und _Grand Hexes_ wirken. Sie sind dafür bekannt, ihre Feinde zu verfluchen und ihnen auf subtile, aber zerstörerische Weise zu schaden. Hexen haben auch treue magische Gefährten, die ihnen helfen, und sie sind in der Lage, ihre Gegner langfristig durch Flüche zu schwächen. Sie ziehen ihre Macht oft aus unheilvollen Quellen und sind Meister der Manipulation und Täuschung. Ihre Magie kann auf verschiedene Weisen genutzt werden, um ihre Ziele zu erreichen, sei es durch Furcht oder List.

@@ -1,0 +1,2 @@
+
+Martyr sind auserwählte Krieger, die bereit sind, sich selbst für das Wohl anderer zu opfern. Ihre göttlichen Kräfte erfordern, dass sie ihre eigenen Lebenspunkte opfern, um mächtige Fähigkeiten freizusetzen, wie das Heilen von Verbündeten oder das Verursachen massiven Schadens. Martyr können dem Tod widerstehen und sind in der Lage, selbst aus schwersten Verletzungen gestärkt hervorzugehen. Mit ihren _Mortal Burdens_ nehmen sie das Leiden ihrer Gruppe auf sich und finden Stärke im Schmerz.

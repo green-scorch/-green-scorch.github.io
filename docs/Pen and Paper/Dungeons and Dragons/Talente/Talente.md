@@ -1,5 +1,5 @@
 
-### **Talente aus dem Player’s Handbook (PHB)**
+### **Talente aus dem Player's Handbook (PHB)**
 
 1. **Actor**
    Dieses Talent gewährt Boni auf Charisma (Tarnung) und ermöglicht es dem Charakter, die Stimmen anderer perfekt zu imitieren. Nützlich für Spione und Meister der Täuschung.
@@ -90,7 +90,7 @@
     <br/>
 
 
-### **Talente aus Xanathar’s Guide to Everything (XGtE)**
+### **Talente aus Xanathar's Guide to Everything (XGtE)**
 
 1. **Bountiful Luck**: Halblinge können ihre Glückspunkte verwenden, um Verbündeten zu helfen, fehlerhafte Würfe zu wiederholen. Ideal für Halblinge, die ihre Gruppe unterstützen wollen.
     <br/>
@@ -153,11 +153,11 @@
     <br/>
 1. **Telepathic**: Der Charakter kann mit anderen telepathisch kommunizieren und erhält Boni auf Intelligenz, Weisheit oder Charisma sowie die Fähigkeit, Gedanken zu lesen.
 
-### **Talente aus Fizban’s Treasury of Dragons (FToD)**
+### **Talente aus Fizban's Treasury of Dragons (FToD)**
 
 1. **Gift of the Chromatic Dragon**:  
 	Dieses Talent ermöglicht es dem Charakter, die Mächte chromatischer Drachen zu nutzen, um seinen Waffenangriffen zusätzlichen elementaren Schaden zu verleihen und vor einem bestimmten Element Schaden zu widerstehen.
-	**Besonderheit**: Gewährt Bonus auf elementare Schadensarten (Säure, Kälte, Blitz, Gift, Feuer) und kann eine elementare Resistenz verleihen.  
+	**Besonderheit**: Gewährt Bonus auf elementare Schadensarten (Säure, Kälte, Blitz, Gift, Feuer) und kann eine elementare Resistenz verleihen.
 	<br/>
 1. **Gift of the Gem Dragon**:  
     Charaktere, die die Macht der Edelsteindrachen anzapfen, erhalten erhöhte mentale Fähigkeiten und die Fähigkeit, telekinetische Angriffe durchzuführen.
@@ -243,3 +243,50 @@
     <br/>
 25. **Master Thrower**  
     Verdopple die Reichweite deiner Wurfwaffen und nutze deine Bonusaktion für zusätzliche Angriffe.
+
+### **Tome of Heroes (ToH)**
+
+1. **Unerschöpfliche Reserven**  
+    Erhöhe deine Weisheit und stelle Ki-Punkte durch Trefferwürfel wieder her.
+    <br/>
+2. **Hartnäckig**  
+    Erhöhe deine Konstitution, gewinne Vorteil bei Todesrettungswürfen und gegen Erschöpfung.
+    <br/>
+3. **Drakonisches Runenwirken**  
+    Erlerne und nutze drakonische Runen zur Verstärkung deiner Zauber.
+    <br/>
+4. **Floriograph**  
+    Meistere die Blumensprache, um geheime Botschaften zu übermitteln.
+    <br/>
+5. **Riesenfluch**  
+    Erhalte Stärke-Boosts und verbessere deine Verteidigung gegen Riesen.
+    <br/>
+6. **Harrier**  
+    Nutze Teleportation (z.B. _Misty Step_), um deine Angriffsstärke zu erhöhen.
+    <br/>
+7. **Heckenmagie**  
+    Verwende dein Wissen über magische Pflanzen, um Vorteile zu gewinnen.
+    <br/>
+8. **Innere Widerstandskraft**  
+    Erhalte eine kleine Menge Ki für defensive Manöver.
+    <br/>
+9. **Waldverbundener**  
+    Erhöhe deine Weisheit, lerne Sylvan und gewinne Vorteile bei Grapple-Situationen durch Pflanzen.
+    <br/>
+10. **Waldfreund**  
+    Erlerne Druidenzauber und die Fähigkeit, mit Tieren zu sprechen.
+    <br/>
+11. **Riesenfeind**  
+    Nutze große Waffen ohne Nachteil und widerstehe kritischen Treffern von Riesen.
+    <br/>
+12. **Todesbote**  
+    Erhöhe deine Charisma-Werte und beeinflusse Untote.
+    <br/>
+13. **Kampfherrschaft**  
+    Erhöhe deine Stärke oder Konstitution, um in Kämpfen strategische Vorteile zu erhalten.
+    <br/>
+14. **Schattentänzer**  
+    Setze Schattenmagie ein, um dich im Kampf zu verstärken.
+    <br/>
+15. **Geborener Streiter**  
+    Erhöhe deine körperlichen Attribute und verbessere deine Fähigkeiten im Nahkampf.

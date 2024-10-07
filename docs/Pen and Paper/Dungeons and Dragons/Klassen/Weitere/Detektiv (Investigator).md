@@ -1,0 +1,2 @@
+
+Der Investigator ist ein scharfsinniger Detektiv und Monsterjäger. Sie verwenden spezialisierte Werkzeuge, um Spuren zu verfolgen und die Schwächen von Feinden zu analysieren. Ihre Fähigkeiten erlauben es ihnen, in die Tiefen der Mysterien einzutauchen, übernatürliche Kreaturen zu studieren und sie effektiv zu bekämpfen. Mit einem Arsenal an Ritualen und Detektivwerkzeugen sind Investigators in der Lage, selbst die geheimnisvollsten und gefährlichsten Gegner zu besiegen. Sie kombinieren Wissen und Kampfkunst, um die Dunkelheit zu erleuchten.

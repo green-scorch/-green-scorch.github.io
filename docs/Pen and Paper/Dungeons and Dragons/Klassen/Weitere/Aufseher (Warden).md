@@ -1,0 +1,2 @@
+
+Der Warden ist ein furchtloser Beschützer, der die Frontlinie hält und seine Verbündeten vor feindlichen Angriffen schützt. Sie nutzen ihre Fähigkeiten, um Massen von Feinden zu kontrollieren, indem sie deren Bewegung einschränken und gezielt angreifen. Durch die _Champion's Call_-Fähigkeit können Wardens Feinde zu einem Duell herausfordern, um so ihre Gruppe zu schützen. Sie sind widerstandsfähige Kämpfer mit einer starken Verteidigung und werden oft als lebende Festungen beschrieben.

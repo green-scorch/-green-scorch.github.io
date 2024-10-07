@@ -1,0 +1,2 @@
+
+Warmages sind Meister der Cantrips, die einfache Zauber in tödliche Waffen verwandeln. Sie setzen vollständig auf magische Tricks, die ihnen im Kampf Flexibilität und hohen Schaden verleihen. Warmages spezialisieren sich auf _Warmage Tricks_ und können ihre Cantrips so anpassen, dass sie unterschiedlichen Situationen gerecht werden. Sie sind in der Lage, mächtige magische Angriffe zu führen, ohne sich auf eine Vielzahl von Zaubern verlassen zu müssen, und brillieren darin, ihre Gegner mit geschickten Zaubertricks auszumanövrieren.

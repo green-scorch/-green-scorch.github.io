@@ -1,0 +1,2 @@
+
+Craftsmen sind geniale Erfinder und Handwerker, die fortschrittliche Waffen und Rüstungen schmieden können. Ihre Fähigkeit, Materialien zu manipulieren und Eigenschaften in Ausrüstungsgegenstände zu integrieren, macht sie zu außergewöhnlichen Meistern des Handwerks. Sie können Waffen mit einzigartigen Eigenschaften versehen und mächtige Rüstungen herstellen. Mit verschiedenen _Gilden_ wie der _Waffenschmiede-Gilde_ oder der _Rüstungsschmiede-Gilde_ können sie sich spezialisieren und einzigartige Gegenstände erschaffen, die das Blatt im Kampf wenden können.

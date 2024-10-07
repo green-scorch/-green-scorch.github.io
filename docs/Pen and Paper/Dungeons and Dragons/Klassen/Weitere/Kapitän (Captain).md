@@ -1,0 +1,2 @@
+
+Der Captain ist ein geborener Anführer, der seine Kameraden im Kampf mit ausgeklügelter Strategie dirigiert. Sie können eine _Kohorte_ kontrollieren – einen sekundären Charakter, der als rechte Hand fungiert – und mächtige _Banner_ einsetzen, die das Team in kritischen Momenten stärken. Diese Banner verbessern die Fähigkeiten der Gruppe, indem sie Verteidigung, Angriffskraft oder Mobilität erhöhen. Captains glänzen in einer unterstützenden Rolle und sind unverzichtbar, um das Team in schweren Kämpfen zusammenzuhalten.

@@ -1,0 +1,2 @@
+
+Alchemisten sind Meister der Wissenschaft und Magie, die Tränke, Bomben und wundersame Elixiere brauen. Ihre Fähigkeiten erlauben es ihnen, explosiven Schaden mit präzisen chemischen Reaktionen zu verursachen oder ihre Verbündeten mit heilenden oder stärkenden Tinkturen zu unterstützen. Alchemisten wählen ein _Forschungsfeld_, das ihre Spezialisierung festlegt, wie das _Brauen von Bomben_ oder das Erschaffen von magischen Gegenständen. Ihre einzigartigen _Formeln_ und _Entdeckungen_ bieten enorme Vielseitigkeit und Anpassungsmöglichkeiten für jede Spielsituation.

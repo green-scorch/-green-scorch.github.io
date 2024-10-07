@@ -1,0 +1,2 @@
+
+Necromancer sind die Meister der dunklen Künste, die Kontrolle über den Tod und das Leben selbst besitzen. Sie sind in der Lage, Armeen von untoten Dienern zu beschwören, um ihre Gegner zu überwältigen, und nutzen die Energie des Todes, um mächtige Zauber zu wirken. Necromancer haben Zugang zu _Grave Ambitions_, die ihre Herangehensweise an den Tod und ihre Motivation definieren, wie das Streben nach Unsterblichkeit oder die Macht über Seelen. Diese Klasse balanciert zwischen moralischen Entscheidungen und ihrer unstillbaren Gier nach Macht.
