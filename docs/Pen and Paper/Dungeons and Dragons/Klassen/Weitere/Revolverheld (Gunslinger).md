@@ -1,0 +1,2 @@
+
+Ein Gunslinger ist ein Revolverheld, der mit Feuerwaffen kämpft und das Risiko liebt. Sie nutzen _Risiko-Würfel_, um riskante, aber lohnenswerte Manöver durchzuführen, wie extrem präzise Schüsse oder riskante Angriffe. Gunslinger haben eine ganze Bandbreite an Schusswaffen zur Verfügung und sind auf das Erreichen kritischer Treffer spezialisiert. Ihr Geschick und ihre Reflexe erlauben es ihnen, in einem intensiven Feuergefecht zu überleben, während sie mit tödlicher Präzision zurückschlagen.
