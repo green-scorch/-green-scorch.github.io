@@ -1,28 +1,28 @@
 
-### **Warlock (Hexenmeister)**
+### [**Warlock (Hexenmeister)**](http://dnd5e.wikidot.com/warlock)  
 
-1. **The Archfey** (PHB)  
+1. [**The Archfey** (PHB)](http://dnd5e.wikidot.com/warlock:archfey)  
    Ein Warlock, der einen Pakt mit einer mächtigen Fey-Wesenheit geschlossen hat. Diese Unterklasse verleiht ihm die Fähigkeit, Charme, Verzauberung und Illusion zu beherrschen. Der Archfey-Warlock kann Gegner verwirren und Feinde in die Irre führen, während er seine magischen Kräfte aus der Feywild bezieht.
       
-2. **The Fiend** (PHB)  
+2. [**The Fiend** (PHB)](http://dnd5e.wikidot.com/warlock:fiend)  
    Dieser Warlock hat einen Pakt mit einem höllischen Wesen geschlossen und erhält mächtige Feuer- und Zerstörungszauber. Er kann seine eigene Lebensenergie zurückgewinnen, indem er Feinde vernichtet, und erhält Zugriff auf Zauber, die mit Feuer und Dämonen verbunden sind.
       
-3. **The Great Old One** (PHB)  
+3. [**The Great Old One** (PHB)](http://dnd5e.wikidot.com/warlock:great-old-one)  
    Ein Warlock, dessen Patron ein uraltes, unbegreifliches Wesen ist, das jenseits des Verständnisses der Sterblichen existiert. Diese Unterklasse gewährt Zugang zu psionischen Kräften, Gedankenmanipulation und der Fähigkeit, den Geist der Feinde zu brechen.
       
-4. **The Undying** (SCAG)  
+4. [**The Undying** (SCAG)](http://dnd5e.wikidot.com/warlock:undying)  
    Ein Warlock, der einen Pakt mit einem unsterblichen Wesen geschlossen hat, wie einem Lich oder einem untoten Herrscher. Der Warlock erhält Fähigkeiten zur Kontrolle über Leben und Tod, sowie die Fähigkeit, seine eigene Lebensdauer zu verlängern und das Leben anderer zu manipulieren.
       
-5. **The Celestial** (XGtE)  
+5. [**The Celestial** (XGtE)](http://dnd5e.wikidot.com/warlock:celestial)  
    Diese Unterklasse verleiht dem Warlock Kräfte eines himmlischen Wesens. Der Warlock erhält Heilzauber und die Fähigkeit, göttliches Licht als Waffe zu nutzen, was ihn zu einem eher unterstützenden Zauberer macht.
       
-6. **The Hexblade** (XGtE)  
+6. [**The Hexblade** (XGtE)](http://dnd5e.wikidot.com/warlock:hexblade)  
    Ein Warlock, der mit einer verfluchten Waffe verbunden ist. Diese Unterklasse erlaubt es dem Warlock, Nahkampfangriffe mit seinem Charisma-Modifikator durchzuführen und sowohl im Nahkampf als auch in der Magie stark zu sein.
       
-7. **The Fathomless** (TCoE)  
+7. [**The Fathomless** (TCoE)](http://dnd5e.wikidot.com/warlock:fathomless)  
    Ein Warlock, dessen Patron mit den dunklen und mysteriösen Tiefen des Ozeans verbunden ist. Der Fathomless-Warlock kann Tentakel beschwören, sich im Wasser bewegen und mächtige Wasserzauber wirken.
       
-8. **The Genie** (TCoE)  
+8. [**The Genie** (TCoE)](http://dnd5e.wikidot.com/warlock:genie)  
    Diese Unterklasse verleiht dem Warlock Kräfte, die von einem mächtigen Dschinn-Patron stammen. Der Warlock erhält Zugriff auf Elementarmagie, die mit dem Genie verbunden ist, und kann in einer speziellen extradimensionalen Flasche Schutz finden.
       
 

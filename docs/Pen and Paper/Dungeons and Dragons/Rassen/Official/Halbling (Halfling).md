@@ -1,5 +1,5 @@
 
-### **Halbling (Halfling)**
+### [**Halbling (Halfling)**](http://dnd5e.wikidot.com/lineage:halfling)  
 
 1. **Lightfoot Halfling** (PHB):  
    Diese Halblinge sind besonders geschickt darin, sich zu verstecken. Sie erhalten Boni auf ihre Geschicklichkeit und können sich hinter größeren Kreaturen verstecken.

@@ -1,5 +1,5 @@
 
-### **Barbarian (Barbar)**
+### [**Barbarian (Barbar)**](http://dnd5e.wikidot.com/barbarian)  
 
 1. [**Path of the Berserker** (PHB)](https://dnd5e.wikidot.com/barbarian:berserker)  
 	Der klassische wütende Krieger, der alles in seinem Weg zerschmettert. Berserker-Barbaren können in einen „Frenzy“ geraten, der ihnen zusätzliche Angriffe ermöglicht, aber nach dem Kampf erschöpft. Diese Unterklasse ist rein offensiv ausgerichtet und besonders effektiv im Nahkampf.

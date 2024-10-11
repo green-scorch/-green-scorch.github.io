@@ -1,46 +1,46 @@
 
-### **Cleric (Kleriker)**
+### [**Cleric (Kleriker)**](http://dnd5e.wikidot.com/cleric)  
 
-1. **Life Domain** (PHB)  
+1. [**Life Domain** (PHB)](http://dnd5e.wikidot.com/cleric:life)  
    Diese Unterklasse ist auf Heilung und Schutz spezialisiert. Life-Kleriker sind Experten darin, ihre Verbündeten zu heilen und zu stärken, und erhalten Fähigkeiten, die es ihnen ermöglichen, mit größerer Effizienz Heilzauber zu wirken und den Tod zu verhindern.
       
-2. **Light Domain** (PHB)  
+2. [**Light Domain** (PHB)](http://dnd5e.wikidot.com/cleric:light)  
    Kleriker des Licht-Domains konzentrieren sich auf das Hervorbringen von heiligem Licht, um Dunkelheit zu vertreiben und Feinde mit strahlender Energie zu zerstören. Sie haben Zugriff auf mächtige Feuer- und Lichtzauber, die Schaden verursachen und die Sicht erschweren.
       
-3. **Knowledge Domain** (PHB)  
+3. [**Knowledge Domain** (PHB)](http://dnd5e.wikidot.com/cleric:knowledge)  
    Diese Kleriker verehren Wissen und Weisheit. Sie haben Zugang zu Fähigkeiten, die es ihnen ermöglichen, Geheimnisse zu entdecken und Wissen zu erlangen. Sie können auch Zauber lernen, die normalerweise anderen Klassen vorbehalten sind.
       
-4. **Nature Domain** (PHB)  
+4. [**Nature Domain** (PHB)](http://dnd5e.wikidot.com/cleric:nature)  
    Kleriker des Nature-Domains haben eine enge Verbindung zur Natur und ihren Elementen. Sie erhalten Fähigkeiten, um Pflanzen und Tiere zu kontrollieren und können Magie wirken, die mit der Natur und den Elementen zusammenhängt, ähnlich einem Druiden.
       
-5. **Tempest Domain** (PHB)  
+5. [**Tempest Domain** (PHB)](http://dnd5e.wikidot.com/cleric:tempest)  
    Diese Kleriker sind Krieger des Sturms und des Wetters. Sie haben Zugriff auf mächtige Blitze- und Donnerschaden-Zauber und können Feinde mit der rohen Gewalt der Stürme und Ozeane niederschmettern. Tempest-Kleriker sind auch im Nahkampf stark.
       
-6. **Trickery Domain** (PHB)  
+6. [**Trickery Domain** (PHB)](http://dnd5e.wikidot.com/cleric:trickery)  
    Kleriker dieses Domain sind Meister der Täuschung und Illusion. Sie können sich unsichtbar machen, Illusionen erzeugen und Feinde verwirren. Diese Kleriker sind besonders geschickt darin, in heikle Situationen einzutauchen und wieder zu entkommen.
       
-7. **War Domain** (PHB)  
+7. [**War Domain** (PHB)](http://dnd5e.wikidot.com/cleric:war)  
    Kleriker des Kriegs-Domains sind mächtige Krieger, die sowohl Magie als auch Waffen im Kampf einsetzen. Sie erhalten Fähigkeiten, die ihre Angriffe verstärken und ihre Waffen magisch machen, sodass sie sowohl magisch als auch physisch großen Schaden anrichten können.
       
-8. **Death Domain** (DMG)  
+8. [**Death Domain** (DMG)](http://dnd5e.wikidot.com/cleric:death)  
    Diese dunkle Unterklasse fokussiert sich auf Todesmagie und Nekromantie. Kleriker des Death-Domains haben die Fähigkeit, untote Kreaturen zu kontrollieren und verheerende Zauber zu wirken, die Leben rauben. Diese Kleriker werden oft mit negativen Energien und der Zerstörung des Lebens in Verbindung gebracht.
       
-9. **Arcana Domain** (SCAG)  
+9. [**Arcana Domain** (SCAG)](http://dnd5e.wikidot.com/cleric:arcana)  
    Diese Kleriker haben eine enge Verbindung zur arkanen Magie und erhalten Zugang zu Zaubern, die normalerweise Zauberern und Magiern vorbehalten sind. Arcana-Kleriker können magische Effekte bannen und haben zusätzliche Macht über magische Wesen wie elementare Kreaturen.
       
-10. **Forge Domain** (XGtE)  
+10. [**Forge Domain** (XGtE)](http://dnd5e.wikidot.com/cleric:forge)  
     Kleriker dieses Domain verehren die Macht der Schmiedekunst und des Feuers. Sie können magische Waffen und Rüstungen erschaffen und ihre Verbündeten mit der rohen Kraft der Schmiedeflammen stärken. Forge-Kleriker sind hervorragend im Schutz und in der Stärkung von Ausrüstung.
       
-11. **Grave Domain** (XGtE)  
+11. [**Grave Domain** (XGtE)](http://dnd5e.wikidot.com/cleric:grave)  
     Diese Kleriker haben eine besondere Verbindung zum Tod und den Seelen. Sie können Leben vor dem Tod bewahren und sind besonders gut darin, Untote zu bekämpfen. Ihre Magie konzentriert sich auf den Schutz der Lebenden und die Verhinderung unnatürlicher Todesarten.
       
-12. **Order Domain** (TCoE)  
+12. [**Order Domain** (TCoE)](http://dnd5e.wikidot.com/cleric:order)  
     Kleriker dieses Domain sind Verfechter von Gesetzen und Ordnung. Sie nutzen ihre Magie, um ihre Verbündeten zu inspirieren und Feinde zu unterdrücken. Sie können Verbündete stärken, indem sie ihnen den Befehl geben, zu handeln, und Feinde zwingen, ihre Befehle zu befolgen.
       
-13. **Peace Domain** (TCoE)  
+13. [**Peace Domain** (TCoE)](http://dnd5e.wikidot.com/cleric:peace)  
     Kleriker des Friedens-Domains fokussieren sich auf Heilung, Unterstützung und Diplomatie. Sie haben die Fähigkeit, Konflikte zu schlichten und Verbündete auf wundersame Weise zu heilen. Ihre Magie stärkt ihre Verbündeten und schützt sie vor Schaden.
       
-14. **Twilight Domain** (TCoE)  
+14. [**Twilight Domain** (TCoE)](http://dnd5e.wikidot.com/cleric:twilight)  
     Kleriker dieser Unterklasse haben eine enge Verbindung zur Dämmerung und dem Gleichgewicht zwischen Licht und Dunkelheit. Sie können magische Dunkelheit erzeugen und Feinde mit nächtlicher Macht überwältigen, während sie gleichzeitig Verbündete in der Dunkelheit schützen.
       
 

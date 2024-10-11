@@ -1,34 +1,34 @@
 
-### **Wizard (Magier)**
+### [**Wizard (Magier)**](https://dnd5e.wikidot.com/wizard)
 
-1. **School of Abjuration** (PHB)  
+1. [**School of Abjuration** (PHB)](https://dnd5e.wikidot.com/wizard:abjuration)  
    Diese Unterklasse spezialisiert sich auf Schutzmagie. Abjuristen sind Meister der Verteidigung und des Bannens von Zaubern. Sie können magische Barrieren erschaffen und andere magische Effekte neutralisieren, um sich und ihre Verbündeten zu schützen.
       
-2. **School of Conjuration** (PHB)  
+2. [**School of Conjuration** (PHB)](https://dnd5e.wikidot.com/wizard:conjuration)  
    Zauberer dieser Schule sind Experten im Herbeirufen von Kreaturen und Objekten. Sie können magische Wesen beschwören, um für sie zu kämpfen, und Tore öffnen, um sich schnell zu bewegen oder Verbündete herbeizurufen.
       
-3. **School of Divination** (PHB)  
+3. [**School of Divination** (PHB)](https://dnd5e.wikidot.com/wizard:divination)  
    Diese Unterklasse gewährt dem Zauberer die Fähigkeit, in die Zukunft zu blicken und Ereignisse vorherzusehen. Divinationszauberer erhalten Einblicke in bevorstehende Gefahren und können Würfelergebnisse manipulieren, um das Schicksal zu ihren Gunsten zu beeinflussen.
       
-4. **School of Enchantment** (PHB)  
+4. [**School of Enchantment** (PHB)](https://dnd5e.wikidot.com/wizard:enchantment)  
    Diese Schule fokussiert sich auf Verzauberungen und die Kontrolle des Geistes. Verzauberungszauberer können Feinde dazu bringen, ihnen zu gehorchen, und ihre Gegner auf charmante oder manipulative Weise dazu bringen, ihre Befehle zu befolgen.
       
-5. **School of Evocation** (PHB)  
+5. [**School of Evocation** (PHB)](https://dnd5e.wikidot.com/wizard:evocation)  
    Evokationszauberer sind Meister der zerstörerischen Magie. Sie erzeugen Feuerbälle, Blitze und andere gewaltige Schadenszauber. Diese Unterklasse konzentriert sich darauf, rohen magischen Schaden zu maximieren und gleichzeitig Verbündete vor den Auswirkungen ihrer mächtigen Angriffe zu schützen.
       
-6. **School of Illusion** (PHB)  
+6. [**School of Illusion** (PHB)](https://dnd5e.wikidot.com/wizard:illusion)  
    Illusionszauberer sind Experten darin, die Realität zu verzerren. Sie können täuschende Bilder, Geräusche und andere Sinneseindrücke erzeugen, um ihre Feinde zu verwirren. Ihre mächtigsten Illusionen können so real erscheinen, dass sie fast ununterscheidbar von der Wirklichkeit sind.
       
-7. **School of Necromancy** (PHB)  
+7. [**School of Necromancy** (PHB)](https://dnd5e.wikidot.com/wizard:necromancy)  
    Diese unheimliche Unterklasse gewährt dem Zauberer die Fähigkeit, Leben und Tod zu manipulieren. Nekromanten können Untote beschwören und kontrollieren und Energie von ihren Feinden stehlen, um ihre eigene Gesundheit zu erneuern. Sie spezialisieren sich auf Todesmagie und das Wiedererwecken von Skeletten und Zombies.
       
-8. **School of Transmutation** (PHB)  
+8. [**School of Transmutation** (PHB)](https://dnd5e.wikidot.com/wizard:transmutation)  
    Transmutationszauberer können die physische Realität verändern. Sie sind in der Lage, Objekte zu verwandeln, Körper zu verändern und Materialien in andere Substanzen umzuwandeln. Sie können auch temporäre Effekte auf sich selbst oder andere anwenden, um ihre physischen Fähigkeiten zu verbessern.
       
-9. **Bladesinging** (SCAG/TCoE)  
+9. [**Bladesinging** (SCAG/TCoE)](https://dnd5e.wikidot.com/wizard:bladesinging)  
    Diese seltene Unterklasse kombiniert den Zauberer mit einem Schwertkämpfer. Bladesinger sind Elfen-Krieger, die Magie und Nahkampfbewegungen zu einem kunstvollen Tanz kombinieren. Sie sind agiler und schneller als andere Zauberer und können Zaubersprüche im Kampf wirken, während sie mit Leichtigkeit Schlägen ausweichen.
       
-10. **War Magic** (XGtE)  
+10. [**War Magic** (XGtE)](https://dnd5e.wikidot.com/wizard:war-magic)  
     Diese Unterklasse verbindet offensive und defensive Magie. Kriegsmagier sind darauf spezialisiert, Zauber zu wirken, die sowohl Schaden verursachen als auch ihre eigenen Verteidigungen verstärken. Sie können Angriffe reflektieren und ihre Gegner im Kampf mit mächtigen magischen Effekten überrumpeln.
       
 

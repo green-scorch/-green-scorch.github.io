@@ -1,5 +1,5 @@
 
-### **Bard (Barde)**
+### [**Bard (Barde)**](https://dnd5e.wikidot.com/bard)  
 
 1. [**College of Lore** (PHB)](https://dnd5e.wikidot.com/bard:lore)  
 	Diese Barden-Unterklasse spezialisiert sich auf Wissen und Magie. Der Lore-Barde erhält Zugang zu zusätzlichen Zaubersprüchen und verfügt über die Fähigkeit, das Verhalten seiner Gegner zu beeinflussen, indem er deren Würfe manipuliert. Er ist ein Meister darin, Wissen aus verschiedenen Quellen zu sammeln und zu nutzen.

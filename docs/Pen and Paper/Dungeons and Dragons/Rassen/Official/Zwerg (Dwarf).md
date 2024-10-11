@@ -1,5 +1,5 @@
 
-### **Zwerg (Dwarf)**
+### [**Zwerg (Dwarf)**](https://dnd5e.wikidot.com/lineage:dwarf)
 
 1. **Hill Dwarf** (PHB):  
    Diese Zwerge sind zäh und hartnäckig. Sie erhalten zusätzliche Trefferpunkte und Boni auf ihre Weisheit. Sie sind bekannt für ihre Langlebigkeit und starke Verbindung zum Boden.

@@ -1,5 +1,5 @@
 
-### **Gnom**
+### [**Gnom**](http://dnd5e.wikidot.com/lineage:gnome)
 
 1. **Forest Gnome** (PHB):  
    Waldgnome sind Meister der Illusionen und der Tierfreundschaft. Sie können Tiere sprechen und erhalten Boni auf ihre Geschicklichkeit und Intelligenz.

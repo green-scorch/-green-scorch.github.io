@@ -1,5 +1,5 @@
 
-### **Halb-Elf (Half-Elf)**
+### [**Halb-Elf (Half-Elf)**](http://dnd5e.wikidot.com/lineage:half-elf)
 
 1. **Standard Half-Elf** (PHB):  
    Halb-Elfen sind flexibel und anpassungsfähig. Sie erhalten Boni auf Charisma und zwei weitere Attribute sowie Zugang zu vielen Fertigkeiten. Sie sind sozial kompetent und können sich in die meisten Situationen einfügen.

@@ -1,5 +1,5 @@
 
-### **Talente aus dem Player's Handbook (PHB)**
+### [**Talente aus dem Player's Handbook (PHB)**](http://dnd5e.wikidot.com/#toc70)  
 
 1. **Actor**  
    Dieses Talent gewährt Boni auf Charisma (Tarnung) und ermöglicht es dem Charakter, die Stimmen anderer perfekt zu imitieren. Nützlich für Spione und Meister der Täuschung.  

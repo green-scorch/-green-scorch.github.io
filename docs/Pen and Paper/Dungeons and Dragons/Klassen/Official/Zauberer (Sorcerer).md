@@ -1,25 +1,25 @@
 
-### **Sorcerer (Zauberer)**
+### [**Sorcerer (Zauberer)**](https://dnd5e.wikidot.com/sorcerer)  
 
-1. **Draconic Bloodline** (PHB)  
+1. [**Draconic Bloodline** (PHB)](https://dnd5e.wikidot.com/sorcerer:draconic-bloodline)  
    Diese Unterklasse basiert auf der Abstammung von Drachen. Der Zauberer erhält Fähigkeiten, die auf dem Drachenblut basieren, darunter erhöhte Widerstandsfähigkeit, zusätzliche Rüstung und die Möglichkeit, mächtige Elementarzauber zu wirken, die mit der Drachenspezies verbunden sind.
       
-2. **Wild Magic** (PHB)  
+2. [**Wild Magic** (PHB)](https://dnd5e.wikidot.com/sorcerer:wild-magic)  
    Ein Zauberer, dessen Magie extrem unvorhersehbar ist. Diese Unterklasse führt eine "Wild Magic Surge"-Tabelle ein, die es dem Spieler ermöglicht (oder zwingt), zufällige magische Effekte auszulösen, wenn Zauber gewirkt werden. Die Effekte reichen von harmlos bis potenziell gefährlich – sowohl für Feinde als auch für Verbündete.
       
-3. **Storm Sorcery** (SCAG)  
+3. [**Storm Sorcery** (SCAG)](https://dnd5e.wikidot.com/sorcerer:storm-sorcery)  
    Ein Sorcerer, der die Macht des Sturms kontrolliert. Diese Unterklasse ermöglicht es dem Zauberer, Blitze, Wind und Donner zu beschwören. Er kann sich außerdem durch die Lüfte bewegen und Blitze nutzen, um sich schneller zu bewegen oder Angriffe zu verstärken.
       
-4. **Shadow Magic** (XGtE)  
+4. [**Shadow Magic** (XGtE)](https://dnd5e.wikidot.com/sorcerer:shadow-magic)   
    Diese dunkle Unterklasse gibt dem Sorcerer die Fähigkeit, die Macht der Schattenebene zu nutzen. Der Zauberer kann sich in Schatten auflösen, die Dunkelheit manipulieren und Feinden Furcht einflößen. Er erhält außerdem erhöhte Überlebensfähigkeiten durch eine enge Verbindung zum Reich des Todes.
       
-5. **Divine Soul** (XGtE)  
+5. [**Divine Soul** (XGtE)](https://dnd5e.wikidot.com/sorcerer:divine-soul)  
    Diese Unterklasse verleiht dem Sorcerer göttliche Kräfte, ähnlich einem Kleriker. Der Zauberer hat Zugriff auf sowohl arkanische als auch göttliche Magie und kann Heilzauber sowie mächtige Angriffszauber wirken, die normalerweise nur Klerikern zur Verfügung stehen.
       
-6. **Aberrant Mind** (TCoE)  
+6. [**Aberrant Mind** (TCoE)](https://dnd5e.wikidot.com/sorcerer:aberrant-mind)  
    Ein Sorcerer, der seine Macht aus einem fremdartigen, psionischen Ursprung schöpft. Diese Unterklasse bietet dem Zauberer mentale Kräfte, einschließlich Telepathie und psionischer Angriffe, die Gegner betäuben und verwirren können.
       
-7. **Clockwork Soul** (TCoE)  
+7. [**Clockwork Soul** (TCoE)](https://dnd5e.wikidot.com/sorcerer:clockwork-soul)  
    Ein Sorcerer, dessen Magie mit der Ebene der Mechanik und Ordnung verbunden ist. Die Clockwork Soul erhält Fähigkeiten, die auf Stabilität, Schutz und die Verhinderung von Chaos basieren, was sie zu einer defensiveren Unterklasse macht.
       
 

@@ -1,25 +1,25 @@
 
-### **Ranger (Waldläufer)**
+### [**Ranger (Waldläufer)**](https://dnd5e.wikidot.com/ranger)
 
-1. **Hunter** (PHB)  
+1. [**Hunter Conclave** (PHB)](https://dnd5e.wikidot.com/ranger:hunter)
    Diese Unterklasse bietet eine Vielzahl von Optionen, die es dem Waldläufer ermöglichen, sich auf die Jagd nach bestimmten Feinden zu spezialisieren und zusätzliche Angriffe und Verteidigungsfähigkeiten im Kampf zu erhalten.
       
-2. **Beast Master** (PHB)  
+2. [**Beast Master Conclave** (PHB)](https://dnd5e.wikidot.com/ranger:beast-master)
    Diese Unterklasse ermöglicht es dem Waldläufer, einen Tiergefährten zu beschwören, der ihm im Kampf und in der Erkundung beisteht. Der Tiergefährte kann auf Befehl agieren und hat seine eigenen Angriffe und Fähigkeiten.
       
-3. **Gloom Stalker** (XGtE)  
+3. [**Gloom Stalker** (XGtE)](http://dnd5e.wikidot.com/ranger:gloom-stalker)  
    Ein Waldläufer, der sich in der Dunkelheit zu Hause fühlt. Er kann sich unsichtbar machen, in Dunkelheit agieren und Überraschungsangriffe ausführen, was ihn zu einem exzellenten Infiltrator und Schurkenjäger macht.
       
-4. **Horizon Walker** (XGtE)  
+4. [**Horizon Walker** (XGtE)](http://dnd5e.wikidot.com/ranger:horizon-walker)  
    Diese Unterklasse fokussiert sich auf Reisen zwischen den Welten und Dimensionen. Der Waldläufer erhält Fähigkeiten, die es ihm ermöglichen, Kreaturen aus anderen Ebenen zu bekämpfen und Dimensionstore zu erschaffen.
       
-5. **Monster Slayer** (XGtE)  
+5. [**Monster Slayer** (XGtE)](http://dnd5e.wikidot.com/ranger:monster-slayer)  
    Dieser Waldläufer ist spezialisiert auf die Jagd und Bekämpfung mächtiger Monster. Er kann Schwächen in übernatürlichen Kreaturen entdecken und Angriffe durchführen, die darauf abzielen, die Verteidigung seiner Feinde zu umgehen.
       
-6. **Fey Wanderer** (TCoE)  
+6. [**Fey Wanderer** (TCoE)](http://dnd5e.wikidot.com/ranger:fey-wanderer)  
    Ein Waldläufer, der sich mit der Feywild verbunden hat. Diese Verbindung verleiht ihm magische Fähigkeiten, die mit Feenmagie, Täuschung und Verzauberung zu tun haben.
       
-7. **Swarmkeeper** (TCoE)  
+7. [**Swarmkeeper** (TCoE)](http://dnd5e.wikidot.com/ranger:swarmkeeper)  
    Diese ungewöhnliche Unterklasse gibt dem Waldläufer die Kontrolle über einen Schwarm von Kreaturen (Insekten, Feen oder andere), die ihm im Kampf helfen, Feinde überwältigen und magische Effekte erzeugen.
       
 

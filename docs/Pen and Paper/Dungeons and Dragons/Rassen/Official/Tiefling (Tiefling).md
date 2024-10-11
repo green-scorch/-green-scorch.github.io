@@ -1,5 +1,5 @@
 
-### **Tiefling**
+### [**Tiefling**](https://dnd5e.wikidot.com/lineage:tiefling)
 
 1. **Standard Tiefling** (PHB):  
    Tieflinge haben dämonische Vorfahren und erhalten Boni auf Charisma und Intelligenz sowie Resistenzen gegen Feuerschaden. Sie können eine Reihe von dämonischen Zaubern wirken, wie „Höllische Rebuke“ und „Dunkelheit“.
