@@ -1,6 +1,3 @@
----
-~
----
 ![[Exported image 20241022164938-0.jpeg]]
 
 **22.- Rising Tide - Social, investigative - Core Set - Combat score: 2/5**  
