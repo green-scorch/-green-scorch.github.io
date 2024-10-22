@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020241022165002-0.jpeg)  
+![[Exported image 20241022165002-0.jpeg]]
 
 **21.- Into the Dark – Survive, boss fight - Path of the Serpent - Combat score: 5/5**  
   

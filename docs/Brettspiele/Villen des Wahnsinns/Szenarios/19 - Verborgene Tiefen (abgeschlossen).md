@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020241022165000-0.jpeg)  
+![[Exported image 20241022165000-0.jpeg]]
 
 **8.- Hidden Depths – Survive, traitor - Horrific Journeys - Combat Score: 3/5**  
   

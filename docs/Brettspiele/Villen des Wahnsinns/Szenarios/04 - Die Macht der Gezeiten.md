@@ -1,4 +1,7 @@
-![Exported image](Exported%20image%2020241022164938-0.jpeg)  
+---
+~
+---
+![[Exported image 20241022164938-0.jpeg]]
 
 **22.- Rising Tide - Social, investigative - Core Set - Combat score: 2/5**  
   

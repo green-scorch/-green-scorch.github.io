@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020241022164951-0.jpeg)  
+![[Exported image 20241022164951-0.jpeg]]
 
 **2.- Ill-fated exhibit – Puzzle - Streets of Arkham - Combat Score: 2/5**  
   
